@@ -1,5 +1,6 @@
 {
- "id":1
- "name": "vamshi"
-  
+ user: {
+         "id":1,
+         "name": "vamshi"
+     } 
 }
