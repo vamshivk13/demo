@@ -1,6 +1,15 @@
 {
- "user": {
+ "user": [{
          "id":1,
          "name": "vamshi"
-     } 
+     },{
+        "id":2,
+        "name": "karthik"
+    },{
+        "id":3,
+        "name": "vamkar"
+    },{
+        "id":4,
+        "name": "vk"
+    }]
 }
